@@ -1,0 +1,7 @@
+*.app
+.DS_store
+old ExperimentalFilter DSP code/
+Media/
+HelloWorld/
+ExperimentalFilter (8:19)/
+ExperimentalFilter/
